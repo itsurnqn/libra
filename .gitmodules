@@ -2,3 +2,7 @@
 	path = project
 	url = https://github.com/OCA/project
 	branch = 13.0
+[submodule "OCA/project"]
+	path = OCA/project
+	url = https://github.com/OCA/project
+	branch = 13.0

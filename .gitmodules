@@ -10,3 +10,7 @@
 	path = ingadhoc/account-payment
 	url = https://github.com/ingadhoc/account-payment/
 	branch = 13.0
+[submodule "ingadhoc/account-financial-tools"]
+	path = ingadhoc/account-financial-tools
+	url = https://github.com/ingadhoc/account-financial-tools/
+	branch = 13.0

@@ -6,3 +6,7 @@
 	path = ingadhoc/odoo-argentina
 	url = https://github.com/ingadhoc/odoo-argentina/
 	branch = 13.0
+[submodule "ingadhoc/account-payment"]
+	path = ingadhoc/account-payment
+	url = https://github.com/ingadhoc/account-payment/
+	branch = 13.0

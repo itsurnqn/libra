@@ -2,3 +2,7 @@
 	path = OCA/project
 	url = https://github.com/OCA/project
 	branch = 13.0
+[submodule "ingadhoc/odoo-argentina"]
+	path = ingadhoc/odoo-argentina
+	url = https://github.com/ingadhoc/odoo-argentina/
+	branch = 13.0
